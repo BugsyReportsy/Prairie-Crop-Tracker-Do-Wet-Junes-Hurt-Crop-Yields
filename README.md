@@ -117,6 +117,6 @@ Weather data was retrieved, processed, and aggregated for this project. The resu
 
 Don Huynh
 
-### AI Use Note
+## AI Use Note
 
 I used ChatGPT to help understand the assignment, troubleshoot Python code, and organize parts of the data analysis. I ran the code in Google Colab and used the results from my own datasets to interpret the findings.
