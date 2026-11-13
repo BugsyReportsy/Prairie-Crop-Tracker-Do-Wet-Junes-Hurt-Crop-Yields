@@ -99,10 +99,24 @@ Libraries used:
 
 ## Attribution
 
-Corn yield data provided by the USDA National Agricultural Statistics Service (NASS).
+**Corn Yield Data**
 
-Weather data provided by Open-Meteo.
+Data provided by the [United States Department of Agriculture (USDA), National Agricultural Statistics Service (NASS)](https://www.nass.usda.gov/).
+
+Data retrieved through the [NASS Quick Stats Database](https://quickstats.nass.usda.gov/), using the [Quick Stats API](https://quickstats.nass.usda.gov/api/).
+
+**Historical Weather Data**
+
+Weather data provided by [Open-Meteo](https://open-meteo.com/), using the [Historical Weather API](https://open-meteo.com/en/docs/historical-weather-api).
+
+Open-Meteo API data is provided under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+Weather data was retrieved, processed, and aggregated for this project. The resulting dataset and visualizations are derived from the original API data.
 
 ## Author
 
 Don Huynh
+
+### AI Use Note
+
+I used ChatGPT to help understand the assignment, troubleshoot Python code, and organize parts of the data analysis. I ran the code in Google Colab and used the results from my own datasets to interpret the findings.
