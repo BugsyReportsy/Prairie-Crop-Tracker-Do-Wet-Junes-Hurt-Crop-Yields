@@ -1,0 +1,17 @@
+# Raw API data
+data/raw/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# API keys and secrets
+.env
